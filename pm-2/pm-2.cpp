@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#define MAX_STRING 10
+#define MAX_STRING 11
 using namespace std;
 
   class Board {
