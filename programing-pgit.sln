@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "programing-pgit", "programi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pm-2", "pm-2\pm-2.vcxproj", "{AD0CCD31-A8C0-4CAB-815A-F0A15F495B5C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Life game", "Life game\Life game.vcxproj", "{B82A1A3E-7182-48F4-9A05-62C934D09895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{AD0CCD31-A8C0-4CAB-815A-F0A15F495B5C}.Release|x64.Build.0 = Release|x64
 		{AD0CCD31-A8C0-4CAB-815A-F0A15F495B5C}.Release|x86.ActiveCfg = Release|Win32
 		{AD0CCD31-A8C0-4CAB-815A-F0A15F495B5C}.Release|x86.Build.0 = Release|Win32
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Debug|x64.ActiveCfg = Debug|x64
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Debug|x64.Build.0 = Debug|x64
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Debug|x86.ActiveCfg = Debug|Win32
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Debug|x86.Build.0 = Debug|Win32
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Release|x64.ActiveCfg = Release|x64
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Release|x64.Build.0 = Release|x64
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Release|x86.ActiveCfg = Release|Win32
+		{B82A1A3E-7182-48F4-9A05-62C934D09895}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
